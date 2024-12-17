@@ -1,1 +1,2 @@
 # NZWalks-API
+The web application focuses on regions and walks, where I utilized ASP.NET Core Web API. I implemented the repository pattern and explored advanced concepts such as filtering, sorting, and pagination. Additionally, I gained experience with JWT for authentication and authorization, becoming proficient in managing secure user access. I also integrated logging using Serilog and developed a robust image uploader functionality.
