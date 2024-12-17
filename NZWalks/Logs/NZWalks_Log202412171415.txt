@@ -1,0 +1,10 @@
+2024-12-17 14:15:15.256 +01:00 [WRN] This is a worning log
+2024-12-17 14:15:15.262 +01:00 [ERR] This is a error log
+2024-12-17 14:15:22.306 +01:00 [WRN] This is a worning log
+2024-12-17 14:15:22.307 +01:00 [ERR] This is a error log
+2024-12-17 14:15:23.005 +01:00 [WRN] This is a worning log
+2024-12-17 14:15:23.007 +01:00 [ERR] This is a error log
+2024-12-17 14:15:23.472 +01:00 [WRN] This is a worning log
+2024-12-17 14:15:23.474 +01:00 [ERR] This is a error log
+2024-12-17 14:15:23.876 +01:00 [WRN] This is a worning log
+2024-12-17 14:15:23.878 +01:00 [ERR] This is a error log

@@ -1,0 +1,2 @@
+2024-12-17 14:10:05.788 +01:00 [WRN] This is a worning log
+2024-12-17 14:10:05.832 +01:00 [ERR] This is a error log

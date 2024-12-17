@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dostojic\\Desktop\\Dimitrije\\NZWalksApi\\NZWalks.Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B68AA-B7F4-4F88-9DC2-62DC12214DF1}|NZWalks\\NZWalks.csproj|c:\\users\\dostojic\\desktop\\dimitrije\\nzwalksapi\\nzwalks.solution\\nzwalks\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B68AA-B7F4-4F88-9DC2-62DC12214DF1}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B68AA-B7F4-4F88-9DC2-62DC12214DF1}|NZWalks\\NZWalks.csproj|c:\\users\\dostojic\\desktop\\dimitrije\\nzwalksapi\\nzwalks.solution\\nzwalks\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B68AA-B7F4-4F88-9DC2-62DC12214DF1}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B68AA-B7F4-4F88-9DC2-62DC12214DF1}|NZWalks\\NZWalks.csproj|c:\\users\\dostojic\\desktop\\dimitrije\\nzwalksapi\\nzwalks.solution\\nzwalks\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B68AA-B7F4-4F88-9DC2-62DC12214DF1}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B68AA-B7F4-4F88-9DC2-62DC12214DF1}|NZWalks\\NZWalks.csproj|c:\\users\\dostojic\\desktop\\dimitrije\\nzwalksapi\\nzwalks.solution\\nzwalks\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B68AA-B7F4-4F88-9DC2-62DC12214DF1}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\middlewares\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B68AA-B7F4-4F88-9DC2-62DC12214DF1}|NZWalks\\NZWalks.csproj|c:\\users\\dostojic\\desktop\\dimitrije\\nzwalksapi\\nzwalks.solution\\nzwalks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B68AA-B7F4-4F88-9DC2-62DC12214DF1}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B68AA-B7F4-4F88-9DC2-62DC12214DF1}|NZWalks\\NZWalks.csproj|c:\\users\\dostojic\\desktop\\dimitrije\\nzwalksapi\\nzwalks.solution\\nzwalks\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B68AA-B7F4-4F88-9DC2-62DC12214DF1}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4B68AA-B7F4-4F88-9DC2-62DC12214DF1}|NZWalks\\NZWalks.csproj|c:\\users\\dostojic\\desktop\\dimitrije\\nzwalksapi\\nzwalks.solution\\nzwalks\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4B68AA-B7F4-4F88-9DC2-62DC12214DF1}|NZWalks\\NZWalks.csproj|solutionrelative:nzwalks\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\dostojic\\Desktop\\Dimitrije\\NZWalksApi\\NZWalks.Solution\\NZWalks\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\dostojic\\Desktop\\Dimitrije\\NZWalksApi\\NZWalks.Solution\\NZWalks\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "NZWalks\\Middlewares\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:39:02.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\dostojic\\Desktop\\Dimitrije\\NZWalksApi\\NZWalks.Solution\\NZWalks\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\dostojic\\Desktop\\Dimitrije\\NZWalksApi\\NZWalks.Solution\\NZWalks\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "NZWalks\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAswB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T12:31:10.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WalksController.cs",
+              "DocumentMoniker": "C:\\Users\\dostojic\\Desktop\\Dimitrije\\NZWalksApi\\NZWalks.Solution\\NZWalks\\Controllers\\WalksController.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Controllers\\WalksController.cs",
+              "ToolTip": "C:\\Users\\dostojic\\Desktop\\Dimitrije\\NZWalksApi\\NZWalks.Solution\\NZWalks\\Controllers\\WalksController.cs",
+              "RelativeToolTip": "NZWalks\\Controllers\\WalksController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowCYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:59:39.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocalImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dostojic\\Desktop\\Dimitrije\\NZWalksApi\\NZWalks.Solution\\NZWalks\\Repositories\\LocalImageRepository.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Repositories\\LocalImageRepository.cs",
+              "ToolTip": "C:\\Users\\dostojic\\Desktop\\Dimitrije\\NZWalksApi\\NZWalks.Solution\\NZWalks\\Repositories\\LocalImageRepository.cs",
+              "RelativeToolTip": "NZWalks\\Repositories\\LocalImageRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:41:44.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\dostojic\\Desktop\\Dimitrije\\NZWalksApi\\NZWalks.Solution\\NZWalks\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\dostojic\\Desktop\\Dimitrije\\NZWalksApi\\NZWalks.Solution\\NZWalks\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "NZWalks\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:39:15.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\dostojic\\Desktop\\Dimitrije\\NZWalksApi\\NZWalks.Solution\\NZWalks\\Models\\Domain\\Image.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Models\\Domain\\Image.cs",
+              "ToolTip": "C:\\Users\\dostojic\\Desktop\\Dimitrije\\NZWalksApi\\NZWalks.Solution\\NZWalks\\Models\\Domain\\Image.cs",
+              "RelativeToolTip": "NZWalks\\Models\\Domain\\Image.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T14:19:34.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dostojic\\Desktop\\Dimitrije\\NZWalksApi\\NZWalks.Solution\\NZWalks\\Program.cs",
+              "RelativeDocumentMoniker": "NZWalks\\Program.cs",
+              "ToolTip": "C:\\Users\\dostojic\\Desktop\\Dimitrije\\NZWalksApi\\NZWalks.Solution\\NZWalks\\Program.cs",
+              "RelativeToolTip": "NZWalks\\Program.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAgwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T12:37:11.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
